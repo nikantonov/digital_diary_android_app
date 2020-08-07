@@ -1,2 +1,3 @@
 # digital_diary_android_app
-Android project for content sorting
+This is an Android app for sorting content (photo, audio and video). 
+It also downloads additional information from the Internet.
